@@ -1,10 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
+## 项目进度
+### 全局安装：npm install create-react-app -g
+### 安装项目:create-react-app my-project
+### 安装redux  npm install redux --save
+### 自定义配置webpack  npm run eject
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.

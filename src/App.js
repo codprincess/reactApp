@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+//引用redux（引用安装的包）
+import {createStore} from 'redux'
 
 class App extends Component {
   render() {
